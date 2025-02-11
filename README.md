@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sai Kartheek 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7AB0A&center=true&vCenter=true&width=440&height=45&lines=Web+Developer;AI%2FML+Enthusiast;Blockchain+Learner;Open+Source+Contributor" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7AB0A&center=true&vCenter=true&width=440&height=45&lines=Web+Developer;AI%2FML+Enthusiast;Blockchain+Learner;" alt="Typing Animation" />
 </p>
 
 ---
