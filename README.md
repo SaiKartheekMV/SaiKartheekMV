@@ -23,8 +23,9 @@
 
 ## 📊 GitHub Stats & Top Languages
 <div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKartheekMV&theme=radical&layout=donut)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKartheekMV&layout=compact&theme=radical&langs_count=8&hide=html,css)
 
 </div>
 
@@ -34,7 +35,6 @@
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaiKartheekMV&show_icons=true&theme=radical&count_private=true&hide=issues" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiKartheekMV&theme=radical" height="165" />
 </div>
 
 ---
