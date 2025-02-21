@@ -20,6 +20,15 @@
   <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts,nextjs,nodejs,express,mongodb,mysql,python,solidity,cpp,java,git" />
 </div>
 
+
+## 📊 GitHub Stats & Top Languages
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKartheekMV&layout=compact&theme=radical&langs_count=8&hide=html,css)
+
+</div>
+
+
 ---
 
 ## 📊 GitHub Stats  
