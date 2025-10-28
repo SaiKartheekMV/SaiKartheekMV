@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Venkata Sai Kartheek Mulukutla</h1>
+<h1 align="center">Hi 👋, I'm Kartheek</h1>
 <h3 align="center">🚀 AI | ML | Blockchain | Full Stack Developer | B.Tech CSE (Blockchain) @ SRM University</h3>
 
 <p align="center">
