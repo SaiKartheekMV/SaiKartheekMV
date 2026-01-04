@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile
+#  Welcome to My GitHub Profile
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 </div>
 
 
-## 🔥 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -15,16 +15,16 @@
 
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate full-stack developer with a keen interest in open-source projects and innovative solutions. I enjoy building scalable applications, contributing to the developer community, and continuously learning new technologies.
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm always learning and exploring new technologies
-- 💬 Ask me about web development, APIs, and open-source contributions
-- 📧 Let's connect and collaborate!
+-  I'm currently working on exciting projects
+-  I'm always learning and exploring new technologies
+-  Ask me about Devops, Backend, and blockchain contributions
+-  Let's connect and collaborate!
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -65,17 +65,17 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
 
 
 
-## 🎯 Featured Projects
+## Featured Projects
 
 > Check out my repositories for more exciting projects and contributions!
 
-- 📚 [View All Repositories](https://github.com/SaiKartheekMV?tab=repositories)
-- ⭐ [Starred Repositories](https://github.com/SaiKartheekMV?tab=stars)
+-  [View All Repositories](https://github.com/SaiKartheekMV?tab=repositories)
+-  [Starred Repositories](https://github.com/SaiKartheekMV?tab=stars)
 
 
 
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -85,7 +85,7 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
 
 </div>
 
-## 💡 My Philosophy
+## My Philosophy
 
 > "Code is poetry written for machines, but meaningful to humans. I strive to write clean, maintainable, and innovative code that makes a difference."
 
@@ -95,6 +95,6 @@ I'm a passionate full-stack developer with a keen interest in open-source projec
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff)
 
-**Last Updated:** December 30, 2025
+**Last Updated:** January 04, 2026
 
 </div>
