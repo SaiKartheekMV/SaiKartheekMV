@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SaiKartheekMV&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=50)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SaiKartheekMV&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Backend%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=50)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ##  About Me
 
-I'm a passionate full-stack developer with a keen interest in open-source projects and innovative solutions. I enjoy building scalable applications, contributing to the developer community, and continuously learning new technologies.
+I'm a  AI Backend Devops Developer with a keen interest in open-source projects and innovative solutions. I enjoy building scalable applications, contributing to the developer community, and continuously learning new technologies.
 
 -  I'm currently working on exciting projects
 -  I'm always learning and exploring new technologies
