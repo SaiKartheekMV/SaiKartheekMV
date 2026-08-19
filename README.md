@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=650&lines=Backend+Developer;AI%2FML+Engineer;Building+Scalable+%26+Explainable+Systems" alt="Typing SVG" />
 
 <br/>
-<img src="https://raw.githubusercontent.com/SaiKartheekMV/SaiKartheekMV/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="90%" />
+<img src="https://cdn.jsdelivr.net/gh/SaiKartheekMV/SaiKartheekMV@output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="90%" />
 
 </div>
 
